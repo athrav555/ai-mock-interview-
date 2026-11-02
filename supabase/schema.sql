@@ -18,7 +18,7 @@ CREATE TABLE public.users (
     id UUID PRIMARY KEY,
     name TEXT NOT NULL,
     email TEXT NOT NULL UNIQUE,
-    current_role TEXT,
+    "current_role" TEXT,
     years_of_experience INTEGER DEFAULT 0,
     industry TEXT,
     target_role TEXT,

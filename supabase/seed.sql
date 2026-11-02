@@ -17,7 +17,7 @@ BEGIN
         id,
         name,
         email,
-        current_role,
+        "current_role",
         years_of_experience,
         industry,
         target_role,
