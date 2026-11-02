@@ -35,6 +35,7 @@ export default function Navbar() {
     { href: '/interview/new', label: 'New Interview', icon: PlusCircle },
     { href: '/history', label: 'Session History', icon: History },
     { href: '/profile', label: 'Profile & Resume', icon: User },
+    { href: '/poster', label: 'Project Poster', icon: Sparkles },
   ];
 
   return (
