@@ -26,8 +26,8 @@ BEGIN
         updated_at
     ) VALUES (
         v_user_id,
-        'Sarah Jenkins',
-        'sarah.jenkins@executive-candidate.io',
+        'Atharv Kathale',
+        'atharv.kathale@executive-candidate.io',
         'Senior Engineering Lead',
         9,
         'FinTech & High-Frequency Cloud Infrastructure',

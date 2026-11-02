@@ -15,8 +15,8 @@ import {
 import { db } from '@/lib/db';
 import { UserProfile } from '@/types';
 
-const SAMPLE_EXECUTIVE_RESUME = `SARAH JENKINS, LEAD SYSTEMS ARCHITECT
-San Francisco, CA • sarah.jenkins@executive-candidate.io • (555) 019-2834
+const SAMPLE_EXECUTIVE_RESUME = `ATHARV KATHALE, LEAD SYSTEMS ARCHITECT
+San Francisco, CA • atharv.kathale@executive-candidate.io • (555) 019-2834
 
 EXECUTIVE PROFILE:
 Senior Engineering Leader with 9+ years delivering Tier-0 distributed systems, real-time transaction engines (sub-15ms p99), and leading 35+ engineers across platform, SRE, and product teams. Architected cloud migrations reducing annual cloud expenditure by $1.8M while maintaining 99.995% uptime SLA. Specialized in high-scale distributed consensus, CAP-theorem trade-offs, and executive cross-functional leadership.

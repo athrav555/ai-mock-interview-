@@ -14,8 +14,8 @@ import {
 // Default Demo User Profile (matching seed.sql)
 const DEFAULT_USER: UserProfile = {
   id: 'a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d',
-  name: 'Sarah Jenkins',
-  email: 'sarah.jenkins@executive-candidate.io',
+  name: 'Atharv Kathale',
+  email: 'atharv.kathale@executive-candidate.io',
   current_role: 'Senior Engineering Lead',
   years_of_experience: 9,
   industry: 'FinTech & High-Frequency Cloud Infrastructure',

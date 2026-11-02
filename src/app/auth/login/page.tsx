@@ -110,7 +110,7 @@ export default function LoginPage() {
     setLoading(true);
     setMessage({
       type: 'success',
-      text: 'Signing in as Sarah Jenkins (Lead Systems Architect)...',
+      text: 'Signing in as Atharv Kathale (Lead Systems Architect)...',
     });
     setTimeout(() => {
       router.push('/dashboard');
